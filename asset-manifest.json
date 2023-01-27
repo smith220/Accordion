@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.f611a5db.js",
-    "index.html": "/index.html",
-    "main.f611a5db.js.map": "/static/js/main.f611a5db.js.map"
+    "main.js": "/Accordion/static/js/main.f611a5db.js",
+    "index.html": "/Accordion/index.html",
+    "main.f611a5db.js.map": "/Accordion/static/js/main.f611a5db.js.map"
   },
   "entrypoints": [
     "static/js/main.f611a5db.js"
